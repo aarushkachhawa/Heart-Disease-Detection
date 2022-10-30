@@ -1,4 +1,4 @@
-| [Home](./README.md)       | [Datasets](./Datasets.md)       | [Data Analysis](./DataAnalysis.md)      | [Machine Learning Models](./MLModels.md)      | [Results](./Findings.md)         |
+| [Home](./README.md)      | [Datasets](./Datasets.md)      | [Data Analysis](./DataAnalysis.md)      | [Machine Learning Models](./MLModels.md)      | [Results](./Findings.md)      |
 
 # Results
 
@@ -15,4 +15,4 @@ This figure illustrates the ROC curves for all the classification models in this
 
 # Conclusion 
 
-On a merged dataset of over 700 patients from the UCI machine learning repository, the most accurate model was found to be the random forest classifier, showing an accuracy and F1 score of 94% and AUC of 0.98. It was found that ensemble learning methodologies along with data optimization and hyperparameter tuning techniques were able to achieve higher accuracy relative to prior published studies on these datasets. 
+On a merged dataset of over 700 patients from the UCI machine learning repository, the **most accurate model was found to be the random forest classifier**, showing an accuracy and F1 score of 94% and AUC of 0.98. It was found that **ensemble learning methodologies** along with **data optimization** and **hyperparameter tuning techniques** were able to achieve higher accuracy relative to prior published studies on these datasets. 
