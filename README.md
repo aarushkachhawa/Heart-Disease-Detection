@@ -1,17 +1,16 @@
 ##                                                    Heart Disease Prediction with Machine Learning
 
                                               
-| [Datasets](./Datasets.md)       | [Machine Learning Models](./MLModels.md)      | [Findings](./Findings.md)         |
+| [Datasets](./Datasets.md)       | [Data Analysis](./DataAnalysis.md)      | [Machine Learning Models](./MLModels.md)      | [Results](./Findings.md)         |
 
 
-**How can we most accurately predict Cardiovascular Disease using Machine Learning Methodologies?**
+**An Intelligent System for Early Prediction of Cardiovascular Disease using Machine Learning**
 
-Cardiovascular disease (CVD), listed as the underlying cause of death, accounted for **868,662** deaths in the US in 2017. CVD claims more lives each year than all forms of cancer and Chronic Lower Respiratory Disease (CLRD) combined. Correct prediction of heart disease can prevent life threats in individuals. CVD is also associated with modifiable risk factors pertaining to lifestyle and intervention. Hence timing of detection and diagnostic accuracy is especially crucial for patients with CVD. 
+Cardiovascular disease (CVD) remains the leading cause of death, responsible for 18.6 million deaths globally in 2019. Given the wide availability of several effective therapeutic treatment options, early diagnosis of CVD is critical for timely intervention and slowing down the progression of the disease. CVD is associated with a multitude of risk markers with non-linear interactions among them, making accurate diagnosis of CVD quite challenging, especially for non-specialized clinicians and under-resourced facilities in developing countries. In recent years, machine learning based computational techniques have shown great promise in becoming a great diagnostic tool. The goal of this research is to leverage multiple machine learning methods such as random forest, gradient boosting, logistic regression and artificial neural network and evaluate their prediction efficacy. This study also evaluates the feasibility of combining multiple UCI datasets in order to improve the prediction accuracy of the models. On a merged dataset of over 700 patients from the UCI machine learning repository, the most accurate model was found to be the random forest classifier, showing an accuracy and F1 score of 94% and AUC of 0.98. It was found that ensemble learning methodologies along with data optimization and hyperparameter tuning techniques were able to achieve higher accuracy relative to prior published studies on these datasets. Finally, this study also proposes how these machine learning workloads can be incorporated into a distributed cloud connected healthcare system to make them widely accessible to practicing doctors and enable them to assess CVD risk of their patients.
+
 
 
 ![heart-disease-ML](https://user-images.githubusercontent.com/85214375/155653304-5f12c8b4-4e30-4a70-9139-4058f1b7d00d.jpeg)
 
 
-Machine Learning techniques are increasingly becoming more pivotal in the interpretation and early diagnosis of heart disease in patients. This project explores various machine learning algorithms for detection and prediction accuracy.  
-
-My hypothesis is that Cardiovascular Disease can be best predicted through the use of supervised machine learning models like an **Artificial Neural Network** because of the complex correlations between multiple features and the disease that can’t be modeled by a simple regression.
+The goal of this study is to build an early prediction system for  a CVD like coronary heart disease in individuals by analyzing historical patient data. The proposed system should have high accuracy and should be a pervasive solution that can be incorporated in connected health care systems via a cloud. Medical practitioners should have a reliable tool to help in early diagnosis of heart disease, which can ultimately help save lives through timely treatment.

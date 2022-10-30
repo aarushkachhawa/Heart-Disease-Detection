@@ -35,8 +35,6 @@ The **UCI heart disease dataset** contains 75 attributes and during pre-processi
 | **HeartDisease** | output class | [1: heart disease, 0: Normal] |
 
 
-## Polynomial Feature Space
-This is a technique to alter and enhance the dataset by engineering new features. We create new features transforms by raising input variables to a power. Some machine learning algorithms prefer or perform better with polynomial input features.
 
 
 
