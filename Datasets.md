@@ -1,3 +1,5 @@
+| [Datasets](./Datasets.md)       | [Data Analysis](./DataAnalysis.md)      | [Machine Learning Models](./MLModels.md)      | [Results](./Findings.md)         |
+
 # Datasets
 
 The first step in applying machine learning methodologies is finding a rich representative dataset. I have identified a dataset that is optimal for modern ML techniques like ANNs for detecting and diagnosing heart disease. It is based on the [UCI Machine Learning Heart Disease dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease) and is enhanced with patient data from 4 other datasets:

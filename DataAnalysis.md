@@ -1,3 +1,5 @@
+| [Datasets](./Datasets.md)       | [Data Analysis](./DataAnalysis.md)      | [Machine Learning Models](./MLModels.md)      | [Results](./Findings.md)         |
+
 # Exploratory Data Analysis
 
 By studying the data distribution of the 5 datasets via box and whisker plots, some anomalies were found in Switzerland, VA and Hungarian datasets.
